@@ -5,7 +5,7 @@ date: 2014-10-12T11:00:28+00:00
 author: Luis Correia
 layout: post
 guid: http://labs.oneoverzero.org/?p=39
-permalink: /lxminimakerfaire/
+slug: /lxminimakerfaire/
 twitterCardType:
   - summary
 cardImageWidth:

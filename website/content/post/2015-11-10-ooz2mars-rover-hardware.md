@@ -5,7 +5,7 @@ date: 2015-11-10T11:03:24+00:00
 author: OOZ Labs
 layout: post
 guid: http://labs.oneoverzero.org/?p=925
-permalink: /ooz2mars-rover-hardware/
+slug: /ooz2mars-rover-hardware/
 twitterCardType:
   - summary_large_image
 cardImageWidth:

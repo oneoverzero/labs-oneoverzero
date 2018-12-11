@@ -5,7 +5,7 @@ date: 2015-02-11T12:45:42+00:00
 author: Nuno Nunes
 layout: post
 guid: http://labs.oneoverzero.org/?p=553
-permalink: /fpv-e-quad-racing/
+slug: /fpv-e-quad-racing/
 twitterCardType:
   - summary_large_image
 cardImageWidth:

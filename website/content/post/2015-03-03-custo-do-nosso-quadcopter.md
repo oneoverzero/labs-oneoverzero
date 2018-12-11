@@ -5,7 +5,7 @@ date: 2015-03-03T14:50:59+00:00
 author: Nuno Nunes
 layout: post
 guid: http://labs.oneoverzero.org/?p=751
-permalink: /custo-do-nosso-quadcopter/
+slug: /custo-do-nosso-quadcopter/
 twitterCardType:
   - summary_large_image
 cardImageWidth:

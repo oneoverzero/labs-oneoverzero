@@ -5,7 +5,7 @@ date: 2014-07-29T19:08:32+00:00
 author: Luis Correia
 layout: post
 guid: http://labs.oneoverzero.org/?p=13
-permalink: /um-novo-projecto/
+slug: /um-novo-projecto/
 categories:
   - Informações
 ---

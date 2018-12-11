@@ -5,7 +5,7 @@ date: 2015-02-25T13:00:22+00:00
 author: Nuno Correia
 layout: post
 guid: http://labs.oneoverzero.org/?p=696
-permalink: /anda-comigo-ver-os-avioes-com-um-raspberry-pi/
+slug: /anda-comigo-ver-os-avioes-com-um-raspberry-pi/
 twitterCardType:
   - summary_large_image
 cardImageWidth:

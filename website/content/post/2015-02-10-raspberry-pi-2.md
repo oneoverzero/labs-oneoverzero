@@ -5,7 +5,7 @@ date: 2015-02-10T13:03:10+00:00
 author: Nuno Correia
 layout: post
 guid: http://labs.oneoverzero.org/?p=561
-permalink: /raspberry-pi-2/
+slug: /raspberry-pi-2/
 twitterCardType:
   - summary_large_image
 cardImageWidth:

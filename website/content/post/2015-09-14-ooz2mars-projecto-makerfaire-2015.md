@@ -5,7 +5,7 @@ date: 2015-09-14T11:30:37+00:00
 author: OOZ Labs
 layout: post
 guid: http://labs.oneoverzero.org/?p=880
-permalink: /ooz2mars-projecto-makerfaire-2015/
+slug: /ooz2mars-projecto-makerfaire-2015/
 twitterCardType:
   - summary_large_image
 cardImageWidth:

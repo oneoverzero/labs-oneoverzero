@@ -5,7 +5,7 @@ date: 2015-06-30T13:06:09+00:00
 author: OOZ Labs
 layout: post
 guid: http://labs.oneoverzero.org/?p=865
-permalink: /projectomakerfaire2015/
+slug: /projectomakerfaire2015/
 twitterCardType:
   - summary_large_image
 cardImageWidth:
