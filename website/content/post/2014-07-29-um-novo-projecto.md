@@ -4,7 +4,7 @@ title: Um novo projecto nasce no laboratório secreto
 date: 2014-07-29T19:08:32+00:00
 author: Luis Correia
 layout: post
-guid: http://labs.oneoverzero.org/?p=13
+guid: /?p=13
 slug: /um-novo-projecto/
 categories:
   - Informações
@@ -21,6 +21,6 @@ Ao longo dos proximos meses, vamos trazer-vos informações, artigos de relevo e
 
 &nbsp;
 
-Podem colocar as vossas perguntas, dúvidas, questões ou mesmo ideias para projectos no nosso [contacto](http://labs.oneoverzero.org/contacto/ "Contacto").
+Podem colocar as vossas perguntas, dúvidas, questões ou mesmo ideias para projectos no nosso [contacto](/contacto/ "Contacto").
 
 Também estamos no <a href="https://plus.google.com/108701695142339153954" rel="publisher">Google+</a>.

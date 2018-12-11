@@ -4,7 +4,7 @@ title: FPV e Quad Racing
 date: 2015-02-11T12:45:42+00:00
 author: Nuno Nunes
 layout: post
-guid: http://labs.oneoverzero.org/?p=553
+guid: /?p=553
 slug: /fpv-e-quad-racing/
 twitterCardType:
   - summary_large_image
@@ -19,13 +19,13 @@ Um fenómeno muito interessante que existe no meio dos quadcopters (e outras aer
 
 FPV é uma sigla que significa _First Person View_. Ou seja, é uma visão do voo como se estivéssemos lá, no quadcopter, na primeira pessoa. Existem essencialmente duas maneiras de ver estas imagens: com um monitor (ou num telefone ou tablet, por exemplo), ou com uns óculos especiais, que nos dão uma sensação de imersão mais completa.<figure id="attachment_556" style="width: 565px" class="wp-caption aligncenter">
 
-<a href="http://www.hobbyking.com/hobbyking/store/uh_viewitem.asp?idproduct=40608&aff=1325431" target="_blank"><img class="wp-image-556 size-full" src="http://labs.oneoverzero.org/wp-content/uploads/2015/02/fpv-monitor.jpg" alt="fpv-monitor" width="565" height="414" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/02/fpv-monitor.jpg 565w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/fpv-monitor-300x220.jpg 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/fpv-monitor-280x205.jpg 280w" sizes="(max-width: 565px) 100vw, 565px" /></a><figcaption class="wp-caption-text">Exemplo de um monitor de FPV acoplado ao emissor</figcaption></figure> 
+<a href="http://www.hobbyking.com/hobbyking/store/uh_viewitem.asp?idproduct=40608&aff=1325431" target="_blank"><img class="wp-image-556 size-full" src="/wp-content/uploads/2015/02/fpv-monitor.jpg" alt="fpv-monitor" width="565" height="414" srcset="/wp-content/uploads/2015/02/fpv-monitor.jpg 565w, /wp-content/uploads/2015/02/fpv-monitor-300x220.jpg 300w, /wp-content/uploads/2015/02/fpv-monitor-280x205.jpg 280w" sizes="(max-width: 565px) 100vw, 565px" /></a><figcaption class="wp-caption-text">Exemplo de um monitor de FPV acoplado ao emissor</figcaption></figure> 
 
 &nbsp;
 
 &nbsp;<figure id="attachment_555" style="width: 565px" class="wp-caption aligncenter">
 
-<a href="http://www.hobbyking.com/hobbyking/store/uh_viewitem.asp?idproduct=64226&aff=1325431" target="_blank"><img class="wp-image-555 size-full" src="http://labs.oneoverzero.org/wp-content/uploads/2015/02/fpv-goggles.jpg" alt="fpv-goggles" width="565" height="414" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/02/fpv-goggles.jpg 565w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/fpv-goggles-300x220.jpg 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/fpv-goggles-280x205.jpg 280w" sizes="(max-width: 565px) 100vw, 565px" /></a><figcaption class="wp-caption-text">Exemplos de óculos FPV</figcaption></figure> 
+<a href="http://www.hobbyking.com/hobbyking/store/uh_viewitem.asp?idproduct=64226&aff=1325431" target="_blank"><img class="wp-image-555 size-full" src="/wp-content/uploads/2015/02/fpv-goggles.jpg" alt="fpv-goggles" width="565" height="414" srcset="/wp-content/uploads/2015/02/fpv-goggles.jpg 565w, /wp-content/uploads/2015/02/fpv-goggles-300x220.jpg 300w, /wp-content/uploads/2015/02/fpv-goggles-280x205.jpg 280w" sizes="(max-width: 565px) 100vw, 565px" /></a><figcaption class="wp-caption-text">Exemplos de óculos FPV</figcaption></figure> 
 
 &nbsp;
 

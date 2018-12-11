@@ -4,7 +4,7 @@ title: Apresentação do projecto SparroWatch
 date: 2016-06-21T21:26:27+00:00
 author: OOZ Labs
 layout: post
-guid: http://labs.oneoverzero.org/?p=1083
+guid: /?p=1083
 slug: /projectomakerfaire2016/
 twitterCardType:
   - summary_large_image
@@ -30,10 +30,10 @@ Juntamos fotos de alguns protótipos dos ninhos que irão estar presentes na fei
 
 &nbsp;
 
-[<img class="wp-image-1086 size-large" src="http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160523_071927693-1024x575.jpg" alt="Casinha com dois painéis solares" width="792" height="445" srcset="http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160523_071927693-1024x575.jpg 1024w, http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160523_071927693-300x169.jpg 300w, http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160523_071927693-768x431.jpg 768w" sizes="(max-width: 792px) 100vw, 792px" />](http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160523_071927693.jpg)
+[<img class="wp-image-1086 size-large" src="/wp-content/uploads/2016/06/IMG_20160523_071927693-1024x575.jpg" alt="Casinha com dois painéis solares" width="792" height="445" srcset="/wp-content/uploads/2016/06/IMG_20160523_071927693-1024x575.jpg 1024w, /wp-content/uploads/2016/06/IMG_20160523_071927693-300x169.jpg 300w, /wp-content/uploads/2016/06/IMG_20160523_071927693-768x431.jpg 768w" sizes="(max-width: 792px) 100vw, 792px" />](/wp-content/uploads/2016/06/IMG_20160523_071927693.jpg)
 
-[<img class="aligncenter size-large wp-image-1087" src="http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160528_180348585-575x1024.jpg" alt="IMG_20160528_180348585" width="575" height="1024" srcset="http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160528_180348585-575x1024.jpg 575w, http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160528_180348585-169x300.jpg 169w, http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160528_180348585-768x1367.jpg 768w, http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160528_180348585.jpg 1456w" sizes="(max-width: 575px) 100vw, 575px" />](http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_20160528_180348585.jpg)
+[<img class="aligncenter size-large wp-image-1087" src="/wp-content/uploads/2016/06/IMG_20160528_180348585-575x1024.jpg" alt="IMG_20160528_180348585" width="575" height="1024" srcset="/wp-content/uploads/2016/06/IMG_20160528_180348585-575x1024.jpg 575w, /wp-content/uploads/2016/06/IMG_20160528_180348585-169x300.jpg 169w, /wp-content/uploads/2016/06/IMG_20160528_180348585-768x1367.jpg 768w, /wp-content/uploads/2016/06/IMG_20160528_180348585.jpg 1456w" sizes="(max-width: 575px) 100vw, 575px" />](/wp-content/uploads/2016/06/IMG_20160528_180348585.jpg)
 
-[<img class="aligncenter size-large wp-image-1092" src="http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_2378a-756x1024.jpg" alt="IMG_2378a" width="756" height="1024" srcset="http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_2378a-756x1024.jpg 756w, http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_2378a-221x300.jpg 221w, http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_2378a-768x1041.jpg 768w" sizes="(max-width: 756px) 100vw, 756px" />](http://labs.oneoverzero.org/wp-content/uploads/2016/06/IMG_2378a.jpg)
+[<img class="aligncenter size-large wp-image-1092" src="/wp-content/uploads/2016/06/IMG_2378a-756x1024.jpg" alt="IMG_2378a" width="756" height="1024" srcset="/wp-content/uploads/2016/06/IMG_2378a-756x1024.jpg 756w, /wp-content/uploads/2016/06/IMG_2378a-221x300.jpg 221w, /wp-content/uploads/2016/06/IMG_2378a-768x1041.jpg 768w" sizes="(max-width: 756px) 100vw, 756px" />](/wp-content/uploads/2016/06/IMG_2378a.jpg)
 
 &nbsp;

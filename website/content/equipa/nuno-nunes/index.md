@@ -4,7 +4,7 @@ title: Nuno Nunes
 date: 2015-02-10T12:35:24+00:00
 author: Nuno Nunes
 layout: page
-guid: http://labs.oneoverzero.org/?page_id=548
+guid: /?page_id=548
 twitterCardType:
   - summary_large_image
 cardImageWidth:
@@ -15,7 +15,7 @@ image: /wp-content/uploads/2015/02/nn-1024.png
 ---
 O **Nuno** é, antes de qualquer outra coisa, um curioso. O mundo está cheio de coisas interessantes para aprender, descobrir, explorar&#8230; O facto de estar envolvido neste projecto garante que no meio de tudo o que tenta fazer em simultâneo, há sempre um pedaço do seu tempo que é dedicado a criar e construir coisas. A ser aquilo a que chamam de _Maker_.
 
-[<img class="aligncenter wp-image-549 size-large" src="http://labs.oneoverzero.org/wp-content/uploads/2015/02/nn-1024-1024x1024.png" alt="nn-1024" width="640" height="640" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/02/nn-1024.png 1024w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/nn-1024-150x150.png 150w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/nn-1024-300x300.png 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/nn-1024-280x280.png 280w" sizes="(max-width: 640px) 100vw, 640px" />](http://labs.oneoverzero.org/nuno-nunes)
+[<img class="aligncenter wp-image-549 size-large" src="/wp-content/uploads/2015/02/nn-1024-1024x1024.png" alt="nn-1024" width="640" height="640" srcset="/wp-content/uploads/2015/02/nn-1024.png 1024w, /wp-content/uploads/2015/02/nn-1024-150x150.png 150w, /wp-content/uploads/2015/02/nn-1024-300x300.png 300w, /wp-content/uploads/2015/02/nn-1024-280x280.png 280w" sizes="(max-width: 640px) 100vw, 640px" />](/nuno-nunes)
 
 Desde cedo sentiu a necessidade de perceber como o mundo funciona e a melhor maneira de o descobrir era manipular e explorar os objectos à sua volta. O facto de ter sido criança numa altura em que ainda era normal construir mobílias e fazer melhoramentos em casa também o ajudou a despertar para o facto de que as pessoas podem (e devem!) fazer coisas por si próprias.
 

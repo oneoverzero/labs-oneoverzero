@@ -4,7 +4,7 @@ title: 'OOZ2Mars — Projecto MakerFaire 2015'
 date: 2015-09-14T11:30:37+00:00
 author: OOZ Labs
 layout: post
-guid: http://labs.oneoverzero.org/?p=880
+guid: /?p=880
 slug: /ooz2mars-projecto-makerfaire-2015/
 twitterCardType:
   - summary_large_image
@@ -40,7 +40,7 @@ Usa sensores de ultra-sons para detectar obstáculos à frente e atrás e tem do
 
 &nbsp;<figure id="attachment_888" style="width: 640px" class="wp-caption aligncenter">
 
-[<img class="wp-image-888 size-large" src="http://labs.oneoverzero.org/wp-content/uploads/2015/09/Rover1-1024x1024.jpg" alt="Rover1" width="640" height="640" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/09/Rover1-1024x1024.jpg 1024w, http://labs.oneoverzero.org/wp-content/uploads/2015/09/Rover1-150x150.jpg 150w, http://labs.oneoverzero.org/wp-content/uploads/2015/09/Rover1-300x300.jpg 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/09/Rover1-280x280.jpg 280w, http://labs.oneoverzero.org/wp-content/uploads/2015/09/Rover1.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" />](http://labs.oneoverzero.org/wp-content/uploads/2015/09/Rover1.jpg)<figcaption class="wp-caption-text">Imagem: o Rover fotografado por Basílio Vieira</figcaption></figure> 
+[<img class="wp-image-888 size-large" src="/wp-content/uploads/2015/09/Rover1-1024x1024.jpg" alt="Rover1" width="640" height="640" srcset="/wp-content/uploads/2015/09/Rover1-1024x1024.jpg 1024w, /wp-content/uploads/2015/09/Rover1-150x150.jpg 150w, /wp-content/uploads/2015/09/Rover1-300x300.jpg 300w, /wp-content/uploads/2015/09/Rover1-280x280.jpg 280w, /wp-content/uploads/2015/09/Rover1.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2015/09/Rover1.jpg)<figcaption class="wp-caption-text">Imagem: o Rover fotografado por Basílio Vieira</figcaption></figure> 
 
 &nbsp;
 
@@ -54,9 +54,9 @@ No fim de cada missão executada, o/a Comandante da Missão vai receber um certi
 
 Para este projecto tivemos a ajuda preciosa do [Basílio Vieira](http://www.Basilio.eu/) que desenhou e imprimiu todas as peças à medida que necessitámos criar. As rodas, os suportes dos motores, os &#8220;linkage&#8221; que permitem a suspensão funcionar e ainda o suporte da câmera (que não consta da foto).
 
-O [Nuno Correia](http://labs.oneoverzero.org/equipa/nuno-correia/) construiu todo o chassis e painéis laterais, ajudando nas decisões do projecto, fornecendo o espaço OOZLabs para a construção e mantendo o stock do minibar em níveis aceitáveis.
+O [Nuno Correia](/equipa/nuno-correia/) construiu todo o chassis e painéis laterais, ajudando nas decisões do projecto, fornecendo o espaço OOZLabs para a construção e mantendo o stock do minibar em níveis aceitáveis.
 
-O [Luís Correia](http://labs.oneoverzero.org/equipa/luis-correia/) seleccionou o hardware e os módulos da electrónica, escreveu todo o código que corre nos dois Arduino (C++), o código que corre no Raspberry Pi 2 (Python) e trata comunicação de dados com Mission Control e ainda o código que corre em Mission Control (Javascript + Websockets).
+O [Luís Correia](/equipa/luis-correia/) seleccionou o hardware e os módulos da electrónica, escreveu todo o código que corre nos dois Arduino (C++), o código que corre no Raspberry Pi 2 (Python) e trata comunicação de dados com Mission Control e ainda o código que corre em Mission Control (Javascript + Websockets).
 
 * * *
 

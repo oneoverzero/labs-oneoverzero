@@ -4,7 +4,7 @@ title: Custo do nosso quadcopter
 date: 2015-03-03T14:50:59+00:00
 author: Nuno Nunes
 layout: post
-guid: http://labs.oneoverzero.org/?p=751
+guid: /?p=751
 slug: /custo-do-nosso-quadcopter/
 twitterCardType:
   - summary_large_image

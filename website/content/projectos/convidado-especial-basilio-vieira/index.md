@@ -4,7 +4,7 @@ title: 'Convidado Especial — Basílio Vieira'
 date: 2015-11-06T14:35:05+00:00
 author: OOZ Labs
 layout: page
-guid: http://labs.oneoverzero.org/?page_id=953
+guid: /?page_id=953
 twitterCardType:
   - summary_large_image
 cardImageWidth:
@@ -13,7 +13,7 @@ cardImageHeight:
   - "320"
 image: /wp-content/uploads/2015/11/image1.jpg
 ---
-[<img class="aligncenter size-full wp-image-955" src="http://labs.oneoverzero.org/wp-content/uploads/2015/11/image1.jpg" alt="image1" width="768" height="768" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/11/image1.jpg 768w, http://labs.oneoverzero.org/wp-content/uploads/2015/11/image1-150x150.jpg 150w, http://labs.oneoverzero.org/wp-content/uploads/2015/11/image1-300x300.jpg 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/11/image1-280x280.jpg 280w" sizes="(max-width: 768px) 100vw, 768px" />](http://labs.oneoverzero.org/wp-content/uploads/2015/11/image1.jpg)
+[<img class="aligncenter size-full wp-image-955" src="/wp-content/uploads/2015/11/image1.jpg" alt="image1" width="768" height="768" srcset="/wp-content/uploads/2015/11/image1.jpg 768w, /wp-content/uploads/2015/11/image1-150x150.jpg 150w, /wp-content/uploads/2015/11/image1-300x300.jpg 300w, /wp-content/uploads/2015/11/image1-280x280.jpg 280w" sizes="(max-width: 768px) 100vw, 768px" />](/wp-content/uploads/2015/11/image1.jpg)
 
 Alguns consideram-no um claro sinal do fim dos tempos, outros apelidam-no de ditador benevolente.
 

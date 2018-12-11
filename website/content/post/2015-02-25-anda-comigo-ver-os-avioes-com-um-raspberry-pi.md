@@ -4,7 +4,7 @@ title: 'Anda comigo ver os aviões&#8230; Com um Raspberry Pi'
 date: 2015-02-25T13:00:22+00:00
 author: Nuno Correia
 layout: post
-guid: http://labs.oneoverzero.org/?p=696
+guid: /?p=696
 slug: /anda-comigo-ver-os-avioes-com-um-raspberry-pi/
 twitterCardType:
   - summary_large_image
@@ -23,7 +23,7 @@ tags:
 ---
 Não&#8230; não é sobre a música de &#8220;[Os Azeitonas](http://pt.wikipedia.org/wiki/Os_Azeitonas "Os Azeitonas")&#8221; que estamos a falar, mas como conseguir ver os aviões em nossa casa recorrendo a um Raspberry Pi e um _dongle_ usb cuja utilização inicial seria para ver TV digital no computador.
 
-<img class="aligncenter wp-image-701 size-full" src="http://labs.oneoverzero.org/wp-content/uploads/2015/02/ne_r820t_1g.jpg" alt="_ne_r820t_1g" width="458" height="458" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/02/ne_r820t_1g.jpg 458w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/ne_r820t_1g-150x150.jpg 150w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/ne_r820t_1g-300x300.jpg 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/ne_r820t_1g-280x280.jpg 280w" sizes="(max-width: 458px) 100vw, 458px" />
+<img class="aligncenter wp-image-701 size-full" src="/wp-content/uploads/2015/02/ne_r820t_1g.jpg" alt="_ne_r820t_1g" width="458" height="458" srcset="/wp-content/uploads/2015/02/ne_r820t_1g.jpg 458w, /wp-content/uploads/2015/02/ne_r820t_1g-150x150.jpg 150w, /wp-content/uploads/2015/02/ne_r820t_1g-300x300.jpg 300w, /wp-content/uploads/2015/02/ne_r820t_1g-280x280.jpg 280w" sizes="(max-width: 458px) 100vw, 458px" />
 
 Aparentemente, estes dispositivos possuem um sintonizador, que usando drivers ligeiramente alterados permitem transformá-lo num [rádio definido por software](http://pt.wikipedia.org/wiki/R%C3%A1dio_Definido_por_Software "SDR") (em inglês: <span lang="en" xml:lang="en"><i><b>S</b>oftware <b>D</b>efined <b>R</b>adio</i></span> ou SDR) e com o qual podemos &#8220;espreitar&#8221; as ondas do éter compreendidas entre os 24 e os 1766MHz (chipset RTL2832U + sintonizador Rafael Micro R820T), o que nos permite por menos de 20€ ter um rádio definido por software a um preço bem acessivel.
 
@@ -122,6 +122,6 @@ Agora é só abrir um browser e colocar o endereço de ip do Raspberry Pi e a po
 http://endereco.ip.do.raspberry.pi:8080<br />
 ` 
   
-[<img class="aligncenter size-large wp-image-706" src="http://labs.oneoverzero.org/wp-content/uploads/2015/02/2015-02-22-184115_1024x744_scrot-1024x744.png" alt="2015-02-22-184115_1024x744_scrot" width="640" height="465" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/02/2015-02-22-184115_1024x744_scrot.png 1024w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/2015-02-22-184115_1024x744_scrot-300x218.png 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/02/2015-02-22-184115_1024x744_scrot-280x203.png 280w" sizes="(max-width: 640px) 100vw, 640px" />](http://labs.oneoverzero.org/wp-content/uploads/2015/02/2015-02-22-184115_1024x744_scrot.png)
+[<img class="aligncenter size-large wp-image-706" src="/wp-content/uploads/2015/02/2015-02-22-184115_1024x744_scrot-1024x744.png" alt="2015-02-22-184115_1024x744_scrot" width="640" height="465" srcset="/wp-content/uploads/2015/02/2015-02-22-184115_1024x744_scrot.png 1024w, /wp-content/uploads/2015/02/2015-02-22-184115_1024x744_scrot-300x218.png 300w, /wp-content/uploads/2015/02/2015-02-22-184115_1024x744_scrot-280x203.png 280w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2015/02/2015-02-22-184115_1024x744_scrot.png)
   
 Et voilá! O vosso próprio <a title="FlightRadar24" href="http://www.flightradar24.com/" target="_blank">Flightradar24</a> ou <a title="FlightAware" href="https://flightaware.com/live/" target="_blank">Flight Aware</a>, projectos para os quais podem participar, como podem ver <a title="PiAware" href="http://flightaware.com/adsb/piaware/" target="_blank">aqui</a> e <a title="FlightRadar24 e DVB-T Stick" href="http://www.flightradar24.com/dvbt-stick" target="_blank">aqui</a>.

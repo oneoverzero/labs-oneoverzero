@@ -4,7 +4,7 @@ title: Luís Correia
 date: 2015-02-10T12:34:19+00:00
 author: Luis Correia
 layout: page
-guid: http://labs.oneoverzero.org/?page_id=377
+guid: /?page_id=377
 twitterCardType:
   - summary
 cardImageWidth:
@@ -13,7 +13,7 @@ cardImageHeight:
   - "320"
 image: /wp-content/uploads/2015/01/lc_c.png
 ---
-[<img class="aligncenter size-large wp-image-574" src="http://labs.oneoverzero.org/wp-content/uploads/2015/01/lc_c-1024x1024.png" alt="lc_c" width="640" height="640" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/01/lc_c.png 1024w, http://labs.oneoverzero.org/wp-content/uploads/2015/01/lc_c-150x150.png 150w, http://labs.oneoverzero.org/wp-content/uploads/2015/01/lc_c-300x300.png 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/01/lc_c-280x280.png 280w" sizes="(max-width: 640px) 100vw, 640px" />](http://labs.oneoverzero.org/wp-content/uploads/2015/01/lc_c.png)Tem uma relação de 40 anos com a electrónica e diz que entende alguma coisa dos computadores. Desde pequeno que desmonta tudo o que deixou de funcionar ou que pretende saber como é que funciona por dentro. Por esta razão, o único brinquedo que conseguiu realmente escapar à sua infância foi um bloco de 2&#215;4 LEGO(TM).
+[<img class="aligncenter size-large wp-image-574" src="/wp-content/uploads/2015/01/lc_c-1024x1024.png" alt="lc_c" width="640" height="640" srcset="/wp-content/uploads/2015/01/lc_c.png 1024w, /wp-content/uploads/2015/01/lc_c-150x150.png 150w, /wp-content/uploads/2015/01/lc_c-300x300.png 300w, /wp-content/uploads/2015/01/lc_c-280x280.png 280w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2015/01/lc_c.png)Tem uma relação de 40 anos com a electrónica e diz que entende alguma coisa dos computadores. Desde pequeno que desmonta tudo o que deixou de funcionar ou que pretende saber como é que funciona por dentro. Por esta razão, o único brinquedo que conseguiu realmente escapar à sua infância foi um bloco de 2&#215;4 LEGO(TM).
 
 Vive rodeado de computadores desde 1983, o ano em que lhe ofereceram um Sinclair ZX Spectrum vindo directamente de Inglaterra. Desde então, tem pesadelos com a afinação da cabeça do leitor de cassetes&#8230;
 

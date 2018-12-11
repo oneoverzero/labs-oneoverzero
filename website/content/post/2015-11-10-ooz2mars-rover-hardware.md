@@ -4,7 +4,7 @@ title: 'Projecto OOZ2Mars — Construção do Rover (hardware)'
 date: 2015-11-10T11:03:24+00:00
 author: OOZ Labs
 layout: post
-guid: http://labs.oneoverzero.org/?p=925
+guid: /?p=925
 slug: /ooz2mars-rover-hardware/
 twitterCardType:
   - summary_large_image
@@ -35,7 +35,7 @@ Depois de várias considerações, escolhemos construir o chassis do Rover numa 
 
 &nbsp;<figure id="attachment_933" style="width: 640px" class="wp-caption aligncenter">
 
-[<img class="wp-image-933 size-large" src="http://labs.oneoverzero.org/wp-content/uploads/2015/11/2015-09-19-22.23.44-1024x768.jpg" alt="As três gerações do nosso Mars Rover" width="640" height="480" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/11/2015-09-19-22.23.44-1024x768.jpg 1024w, http://labs.oneoverzero.org/wp-content/uploads/2015/11/2015-09-19-22.23.44-300x225.jpg 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/11/2015-09-19-22.23.44-280x210.jpg 280w" sizes="(max-width: 640px) 100vw, 640px" />](http://labs.oneoverzero.org/wp-content/uploads/2015/11/2015-09-19-22.23.44.jpg)<figcaption class="wp-caption-text">As três gerações do nosso Mars Rover</figcaption></figure> 
+[<img class="wp-image-933 size-large" src="/wp-content/uploads/2015/11/2015-09-19-22.23.44-1024x768.jpg" alt="As três gerações do nosso Mars Rover" width="640" height="480" srcset="/wp-content/uploads/2015/11/2015-09-19-22.23.44-1024x768.jpg 1024w, /wp-content/uploads/2015/11/2015-09-19-22.23.44-300x225.jpg 300w, /wp-content/uploads/2015/11/2015-09-19-22.23.44-280x210.jpg 280w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2015/11/2015-09-19-22.23.44.jpg)<figcaption class="wp-caption-text">As três gerações do nosso Mars Rover</figcaption></figure> 
 
 A electrónica do Rover tem duas facetas, por um lado, obter dados de telemetria, por outro controlar o movimento. No exterior, o Rover tem uma câmara de vídeo, a placa wireless e três sensores de ultrassons para detectar e (na maioria das vezes) evitar colisões. Estes sensores estão ligados ao Arduino Makerfaire Edition, que também lê a tensão das duas baterias, enviando os valores quatro vezes por segundo para o Raspberry Pi 2 (raspi2).
 
@@ -45,15 +45,15 @@ O Arduino MakerFaire Edition 2014 é responsável pela leitura dos três sensore
 
 O Arduino Leonardo recebe e processa a lista de comandos vindos do raspi2. Os comandos são executados em sequência, sendo apenas interrompidos em caso de colisão iminente. O rover executa comandos para evitar o obstéculo, retomando a sequência logo que não tiver mais nenhum obstáculo à sua volta.
 
-Para comando dos motores, usamos um circuito baseado no chip L298 que é o mais indicado para o tipo de motores que temos no nosso rover. Ao contrário dos [multicopters](http://labs.oneoverzero.org/series/serie-1/) que utilizam motores trifásicos com controladores bastante complexos, os motores de escovas podem ser comandados com quatro transístores de potência. O chip L298 contém dentro dois conjuntos de quatro transistores de potência capazes de fornecer a corrente suficiente.
+Para comando dos motores, usamos um circuito baseado no chip L298 que é o mais indicado para o tipo de motores que temos no nosso rover. Ao contrário dos [multicopters](/series/serie-1/) que utilizam motores trifásicos com controladores bastante complexos, os motores de escovas podem ser comandados com quatro transístores de potência. O chip L298 contém dentro dois conjuntos de quatro transistores de potência capazes de fornecer a corrente suficiente.
 
 &nbsp;<figure id="attachment_939" style="width: 640px" class="wp-caption aligncenter">
 
-[<img class="wp-image-939 size-large" src="http://labs.oneoverzero.org/wp-content/uploads/2015/11/Schematic-Arduino-Touch-Wardrobe-1024x576.jpg" alt="Exemplo de implementação" width="640" height="360" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/11/Schematic-Arduino-Touch-Wardrobe.jpg 1024w, http://labs.oneoverzero.org/wp-content/uploads/2015/11/Schematic-Arduino-Touch-Wardrobe-300x169.jpg 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/11/Schematic-Arduino-Touch-Wardrobe-280x158.jpg 280w" sizes="(max-width: 640px) 100vw, 640px" />](http://labs.oneoverzero.org/wp-content/uploads/2015/11/Schematic-Arduino-Touch-Wardrobe.jpg)<figcaption class="wp-caption-text">Exemplo de implementação</figcaption></figure> 
+[<img class="wp-image-939 size-large" src="/wp-content/uploads/2015/11/Schematic-Arduino-Touch-Wardrobe-1024x576.jpg" alt="Exemplo de implementação" width="640" height="360" srcset="/wp-content/uploads/2015/11/Schematic-Arduino-Touch-Wardrobe.jpg 1024w, /wp-content/uploads/2015/11/Schematic-Arduino-Touch-Wardrobe-300x169.jpg 300w, /wp-content/uploads/2015/11/Schematic-Arduino-Touch-Wardrobe-280x158.jpg 280w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2015/11/Schematic-Arduino-Touch-Wardrobe.jpg)<figcaption class="wp-caption-text">Exemplo de implementação</figcaption></figure> 
 
 Construímos dois módulos idênticos em protoboard e usámos um dissipador que tínhamos por aqui para dissipar algum calor extra. Nunca notámos alguma espécie de aquecimento anormal durante os três dias da feira. O nosso Rover movimenta-se da mesma forma que um tanque de guerra, sendo que os motores são controlados aos pares como se fossem apenas dois, o motor esquerdo e motor direito.
 
-As peças azuis foram modeladas e impressas pelo [Basílio Vieira](http://labs.oneoverzero.org/projectos/convidado-especial-basilio-vieira/) que foi o nosso convidado especial para este projecto. Os modelos foram criados no [Sketchup](http://www.sketchup.com/) e impressas numa [BEETHEFIRST](https://beeverycreative.com/beethefirst-plus/) da BeeVeryCreative.
+As peças azuis foram modeladas e impressas pelo [Basílio Vieira](/projectos/convidado-especial-basilio-vieira/) que foi o nosso convidado especial para este projecto. Os modelos foram criados no [Sketchup](http://www.sketchup.com/) e impressas numa [BEETHEFIRST](https://beeverycreative.com/beethefirst-plus/) da BeeVeryCreative.
 
 Em antecipação da explicação mais detalhada do software, juntamos aqui os links para todos os módulos que usámos para criar esta Experiência de condução de um Rover &#8220;em Marte&#8221;.
 

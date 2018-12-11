@@ -5,7 +5,7 @@ url: contacto
 date: 2014-07-29T18:10:48+00:00
 author: OOZ Labs
 layout: page
-guid: http://labs.oneoverzero.org/?page_id=6
+guid: /?page_id=6
 twitterCardType:
   - summary
 cardImageWidth:

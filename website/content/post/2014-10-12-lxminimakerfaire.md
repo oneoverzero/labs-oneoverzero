@@ -4,7 +4,7 @@ title: OOZ Labs na Lisbon Mini Maker Faire
 date: 2014-10-12T11:00:28+00:00
 author: Luis Correia
 layout: post
-guid: http://labs.oneoverzero.org/?p=39
+guid: /?p=39
 slug: /lxminimakerfaire/
 twitterCardType:
   - summary
@@ -22,7 +22,7 @@ Somos hackers e makers por natureza resolvemos aceitar o desafio dos organizador
 
 Trata-se de um dispositivo que literalmente aponta (com um dedo) para um satélite artificial.
 
-[<img class="aligncenter size-medium wp-image-48" src="http://labs.oneoverzero.org/wp-content/uploads/2014/10/PAS-paint2113-300x199.jpg" alt="Point-A-Sateliteinator na Lisbon Mini Maker Faire" width="600" height="400" srcset="http://labs.oneoverzero.org/wp-content/uploads/2014/10/PAS-paint2113-300x199.jpg 300w, http://labs.oneoverzero.org/wp-content/uploads/2014/10/PAS-paint2113-225x150.jpg 225w" sizes="(max-width: 600px) 100vw, 600px" />](http://labs.oneoverzero.org/wp-content/uploads/2014/10/PAS-paint2113.jpg)
+[<img class="aligncenter size-medium wp-image-48" src="/wp-content/uploads/2014/10/PAS-paint2113-300x199.jpg" alt="Point-A-Sateliteinator na Lisbon Mini Maker Faire" width="600" height="400" srcset="/wp-content/uploads/2014/10/PAS-paint2113-300x199.jpg 300w, /wp-content/uploads/2014/10/PAS-paint2113-225x150.jpg 225w" sizes="(max-width: 600px) 100vw, 600px" />](/wp-content/uploads/2014/10/PAS-paint2113.jpg)
 
 A ideia surge depois de termos tido conhecimento do site <a href="http://heavens-above.com/" title="Heavens Above" target="_blank">Heavens Above</a> e de ver regularmente a Estação Espacial Internacional (ISS) a passar sobre as nossas cabeças. 
 
