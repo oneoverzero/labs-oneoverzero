@@ -102,7 +102,7 @@ googleAnalytics = "UA-53355360-1"
 
 [[menu.main]]
     parent = "Projectos"
-    name = "Convidado Especial, Baílio Vieira"
+    name = "Convidado Especial, Basílio Vieira"
     url = "/projectos/convidado-especial-basilio-vieira/"
     weight = 50
 
