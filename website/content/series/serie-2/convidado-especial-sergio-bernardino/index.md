@@ -4,7 +4,7 @@ title: 'Convidado Especial — Sérgio Bernardino'
 date: 2016-04-07T11:41:44+00:00
 author: Nuno Nunes
 layout: page
-guid: http://labs.oneoverzero.org/?page_id=849
+guid: /?page_id=849
 twitterCardType:
   - summary_large_image
 cardImageWidth:
@@ -14,9 +14,9 @@ cardImageHeight:
 ---
 Nesta nossa segunda série temos um envolvimento maior do nosso convidado especial.
 
-Tal como o [**Luís Correia**](http://labs.oneoverzero.org/equipa/luis-correia/ "Luís Correia"), também ele pretende construir uma arcade de topo de bancada para joga novamente os seus jogos favoritos. Já no passado ele tinha manifestado o seu interesse numa solução destas e sabíamos que por vezes joga MAME num PC vulgar, pelo que quando decidimos fazer esta série com este tema a decisão de o convidar a fazer a build connosco foi óbvia.
+Tal como o [**Luís Correia**](/equipa/luis-correia/ "Luís Correia"), também ele pretende construir uma arcade de topo de bancada para joga novamente os seus jogos favoritos. Já no passado ele tinha manifestado o seu interesse numa solução destas e sabíamos que por vezes joga MAME num PC vulgar, pelo que quando decidimos fazer esta série com este tema a decisão de o convidar a fazer a build connosco foi óbvia.
 
-[<img class="aligncenter size-large wp-image-850" src="http://labs.oneoverzero.org/wp-content/uploads/2015/03/sergio_bernardino-1024x1024.png" alt="Sérgio Bernardino" width="640" height="640" srcset="http://labs.oneoverzero.org/wp-content/uploads/2015/03/sergio_bernardino-1024x1024.png 1024w, http://labs.oneoverzero.org/wp-content/uploads/2015/03/sergio_bernardino-150x150.png 150w, http://labs.oneoverzero.org/wp-content/uploads/2015/03/sergio_bernardino-300x300.png 300w, http://labs.oneoverzero.org/wp-content/uploads/2015/03/sergio_bernardino-280x280.png 280w" sizes="(max-width: 640px) 100vw, 640px" />](http://labs.oneoverzero.org/wp-content/uploads/2015/03/sergio_bernardino.png)
+[<img class="aligncenter size-large wp-image-850" src="/wp-content/uploads/2015/03/sergio_bernardino-1024x1024.png" alt="Sérgio Bernardino" width="640" height="640" srcset="/wp-content/uploads/2015/03/sergio_bernardino-1024x1024.png 1024w, /wp-content/uploads/2015/03/sergio_bernardino-150x150.png 150w, /wp-content/uploads/2015/03/sergio_bernardino-300x300.png 300w, /wp-content/uploads/2015/03/sergio_bernardino-280x280.png 280w" sizes="(max-width: 640px) 100vw, 640px" />](/wp-content/uploads/2015/03/sergio_bernardino.png)
 
 &nbsp;
 

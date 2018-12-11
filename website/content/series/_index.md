@@ -4,7 +4,7 @@ title: Séries
 date: 2015-01-21T23:56:35+00:00
 author: OOZ Labs
 layout: page
-guid: http://labs.oneoverzero.org/?page_id=393
+guid: /?page_id=393
 twitterCardType:
   - summary
 cardImageWidth:
@@ -20,9 +20,9 @@ Decidimos criar séries em formato vídeo sobre construções de equipamento ou 
 
 &nbsp;
 
-A primeira é sobre a construção de um quadcopter, que podes seguir através deste link: [Série 1 — Quadcopter](http://labs.oneoverzero.org/serie-1/ "Série 1 - Quadcopter").
+A primeira é sobre a construção de um quadcopter, que podes seguir através deste link: [Série 1 — Quadcopter](/serie-1/ "Série 1 - Quadcopter").
 
-A segunda, que está a decorrer agora, é sobre a construção de máquinas de jogos (tipo arcada) de topo de mesa e podes encontrar os posts todos em [Série 2 — Arcada](http://labs.oneoverzero.org/series/serie-2/).
+A segunda, que está a decorrer agora, é sobre a construção de máquinas de jogos (tipo arcada) de topo de mesa e podes encontrar os posts todos em [Série 2 — Arcada](/series/serie-2/).
 
 &nbsp;
 

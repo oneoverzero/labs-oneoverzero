@@ -4,7 +4,7 @@ title: 'Mini-Série — Moldagem'
 date: 2017-07-17T10:42:38+00:00
 author: Nuno Nunes
 layout: page
-guid: http://labs.oneoverzero.org/?page_id=1238
+guid: /?page_id=1238
 twitterCardType:
   - summary_large_image
 ---
@@ -13,7 +13,7 @@ Aqui apresentamos uma mini-série composta por 3 vídeos, sobre o tema de **mold
 <p style="text-align: center;">
 </p>
 
-Convidámos um amigo nosso, o [Ricardo Pereira](http://labs.oneoverzero.org/series/serie-3/convidado-especial-ricardo-pereira/), que é uma pessoa de muitos talentos e que sabe muito de processos de fabricação, em particular de moldagem.
+Convidámos um amigo nosso, o [Ricardo Pereira](/series/serie-3/convidado-especial-ricardo-pereira/), que é uma pessoa de muitos talentos e que sabe muito de processos de fabricação, em particular de moldagem.
 
 No primeiro vídeo mencionamos algumas das comunidades a que o Ricardo pertence e que se enquadram mais nesta área, nomeadamente:
 
@@ -27,7 +27,7 @@ Nesta mini-série vamos fazer **moldes de silicone**, para fazer gelo com a form
 
 Os processos que demonstramos são relativamente simples de seguir, mas **é sempre necessária a ajuda e acompanhamento de um adulto** porque algumas partes (em especial a utilização da resina) podem ser um pouco complicadas e até perigosas.
 
-Se quiserem experimentar alguma destas técnicas e tiverem dúvidas [falem connosco](http://labs.oneoverzero.org/contacto/) ou com o Ricardo (designer@ricardopereira.org) e faremos os possíveis para vos ajudar.
+Se quiserem experimentar alguma destas técnicas e tiverem dúvidas [falem connosco](/contacto/) ou com o Ricardo (designer@ricardopereira.org) e faremos os possíveis para vos ajudar.
 
 &nbsp;
 
@@ -37,6 +37,6 @@ Finalmente queremos agradecer à [HB Química](http://hbquimica.pt/) por ter fei
 
 Esta série é composta pelos seguintes episódios:
 
-  * [Episódio 1 — Silicone](http://labs.oneoverzero.org/s03e01/)
-  * [Episódio 2 — Anões de Gelo](http://labs.oneoverzero.org/s03e02/)
-  * [Episódio 3 — Clona o teu Dedo](http://labs.oneoverzero.org/s03e03/)
+  * [Episódio 1 — Silicone](/s03e01/)
+  * [Episódio 2 — Anões de Gelo](/s03e02/)
+  * [Episódio 3 — Clona o teu Dedo](/s03e03/)

@@ -4,11 +4,11 @@ title: 'Convidado Especial — Ricardo Pereira'
 date: 2017-07-17T10:43:45+00:00
 author: Nuno Nunes
 layout: page
-guid: http://labs.oneoverzero.org/?page_id=1241
+guid: /?page_id=1241
 twitterCardType:
   - summary_large_image
 ---
-<img class="aligncenter size-full wp-image-1266" src="http://labs.oneoverzero.org/wp-content/uploads/2017/07/ricardo-pereira.jpg" alt="Foto do Ricardo Pereira" width="371" height="371" srcset="http://labs.oneoverzero.org/wp-content/uploads/2017/07/ricardo-pereira.jpg 371w, http://labs.oneoverzero.org/wp-content/uploads/2017/07/ricardo-pereira-150x150.jpg 150w, http://labs.oneoverzero.org/wp-content/uploads/2017/07/ricardo-pereira-300x300.jpg 300w" sizes="(max-width: 371px) 100vw, 371px" />
+<img class="aligncenter size-full wp-image-1266" src="/wp-content/uploads/2017/07/ricardo-pereira.jpg" alt="Foto do Ricardo Pereira" width="371" height="371" srcset="/wp-content/uploads/2017/07/ricardo-pereira.jpg 371w, /wp-content/uploads/2017/07/ricardo-pereira-150x150.jpg 150w, /wp-content/uploads/2017/07/ricardo-pereira-300x300.jpg 300w" sizes="(max-width: 371px) 100vw, 371px" />
 
 Nascido em 1982 no Porto, o Ricardo formou-se em Design Industrial em 2007 na Faculdade Lusíada da Universidade do Porto.
 
@@ -34,4 +34,4 @@ Se quiserem falar com o Ricardo directamente podem faze-lo para o email designe
 
 &nbsp;
 
-O Ricardo apareceu pela primeira vez na [mini-série de moldagem](http://labs.oneoverzero.org/series/serie-3/).
+O Ricardo apareceu pela primeira vez na [mini-série de moldagem](/series/serie-3/).
