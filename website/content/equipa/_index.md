@@ -1,6 +1,7 @@
 ---
 id: 374
 title: A Equipa
+url: /equipa/
 date: 2015-02-10T12:33:50+00:00
 author: OOZ Labs
 layout: page

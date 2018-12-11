@@ -1,6 +1,7 @@
 ---
 id: 6
 title: Contacto
+url: contacto
 date: 2014-07-29T18:10:48+00:00
 author: OOZ Labs
 layout: page
