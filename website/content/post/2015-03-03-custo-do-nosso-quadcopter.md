@@ -53,7 +53,7 @@ Vamos então por partes e comecemos pelo material genérico. Este material serve
   
   <tr>
     <td>
-      Emissor (TX) &#8211; Turnigy 6X (mode2)
+      Emissor (TX) — Turnigy 6X (mode2)
     </td>
     
     <td>
@@ -63,7 +63,7 @@ Vamos então por partes e comecemos pelo material genérico. Este material serve
   
   <tr>
     <td>
-      Receptor (RX) &#8211; Turnigy XR7000S
+      Receptor (RX) — Turnigy XR7000S
     </td>
     
     <td>
@@ -73,7 +73,7 @@ Vamos então por partes e comecemos pelo material genérico. Este material serve
   
   <tr>
     <td>
-      Carregador de baterias &#8211; IMAX B6
+      Carregador de baterias — IMAX B6
     </td>
     
     <td>

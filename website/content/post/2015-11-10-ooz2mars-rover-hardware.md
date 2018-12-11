@@ -1,6 +1,6 @@
 ---
 id: 925
-title: 'Projecto OOZ2Mars &#8211; Construção do Rover (hardware)'
+title: 'Projecto OOZ2Mars — Construção do Rover (hardware)'
 date: 2015-11-10T11:03:24+00:00
 author: OOZ Labs
 layout: post
@@ -61,18 +61,18 @@ Em antecipação da explicação mais detalhada do software, juntamos aqui os li
 
 Código fonte do projecto
 
-  * <a href="https://github.com/OOZLabs/MakerFaire2015" target="_blank">Maker Faire 2015</a> &#8211; Software de controlo
-  * <a href="https://github.com/luisfcorreia/MFL2015_MISCTL" target="_blank">MFL2015</a> &#8211; Interface Mission Control
+  * <a href="https://github.com/OOZLabs/MakerFaire2015" target="_blank">Maker Faire 2015</a> — Software de controlo
+  * <a href="https://github.com/luisfcorreia/MFL2015_MISCTL" target="_blank">MFL2015</a> — Interface Mission Control
 
 &nbsp;
 
 Bibliotecas adicionais
 
-  * [mosquitto.org](http://mosquitto.org) &#8211; Linux, Servidor de Mensagens MQTT
-  * [paho-mqtt](https://eclipse.org/paho/clients/python/) &#8211; Linux, ligações python para MQTT
-  * [RunningMedian](http://playground.arduino.cc/Main/RunningMedian) &#8211; Arduino, obter mediana de uma série de valores
-  * [NewPing](http://playground.arduino.cc/Code/NewPing) &#8211; Arduino, ler distância de objectos com sensores ultrasons
-  * [<span class="pl-s">LMotorController</span>](https://github.com/lukagabric/Ernesto-Arduino/tree/master/Ernesto/Classes/LMotorController) &#8211; Arduino, controlador de motores
+  * [mosquitto.org](http://mosquitto.org) — Linux, Servidor de Mensagens MQTT
+  * [paho-mqtt](https://eclipse.org/paho/clients/python/) — Linux, ligações python para MQTT
+  * [RunningMedian](http://playground.arduino.cc/Main/RunningMedian) — Arduino, obter mediana de uma série de valores
+  * [NewPing](http://playground.arduino.cc/Code/NewPing) — Arduino, ler distância de objectos com sensores ultrasons
+  * [<span class="pl-s">LMotorController</span>](https://github.com/lukagabric/Ernesto-Arduino/tree/master/Ernesto/Classes/LMotorController) — Arduino, controlador de motores
 
 &nbsp;
 
@@ -93,9 +93,9 @@ Lista de componentes
 
 Glossário:
 
-  * level-shifter &#8211; adaptador de sinais que permite que o Arduino (5V) comunique com o Raspberry Pi (3.3v)
-  * shield &#8211; placa que liga nos pinos do Arduino e que permite expansão
-  * GPU &#8211; processador gráfico
-  * Protoboard &#8211; Placa de circuito impresso para prototipagem com furação e ilhas para soldar componentes
+  * level-shifter — adaptador de sinais que permite que o Arduino (5V) comunique com o Raspberry Pi (3.3v)
+  * shield — placa que liga nos pinos do Arduino e que permite expansão
+  * GPU — processador gráfico
+  * Protoboard — Placa de circuito impresso para prototipagem com furação e ilhas para soldar componentes
 
 Nota: links válidos a 4 de novembro de 2015

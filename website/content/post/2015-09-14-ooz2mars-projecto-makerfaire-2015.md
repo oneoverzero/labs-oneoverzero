@@ -1,6 +1,6 @@
 ---
 id: 880
-title: 'OOZ2Mars &#8211; Projecto MakerFaire 2015'
+title: 'OOZ2Mars — Projecto MakerFaire 2015'
 date: 2015-09-14T11:30:37+00:00
 author: OOZ Labs
 layout: post
@@ -68,13 +68,13 @@ o código fonte usado no projecto está disponível [no Github](https://github.c
 
 O projecto não se fez só com a nossa vontade pelo que temos que agradecer a algumas pessoas e empresas:
 
-  * [inMotion](http://inmotion.pt/) &#8211; forneceu os motores e os L298
-  * [João Neves](http://mestrejoao.silvaneves.org/) &#8211; doou um servidor Dell PowerEdge R200
-  * Luis Silva &#8211; emprestou um módulo WiFi de dimensões reduzidas
-  * [Bruno Amaral](http://BrunoAmaral.eu/) &#8211; ajudou a criar o Mission Control web interface
-  * [Lobsters](http://oneoverzero.org/) &#8211; ajudaram com todo o encorajamento que bem falta nos fez :p
-  * [MEOCloud](http://meocloud.pt) &#8211; alojar imagens e documentos das missões
-  * [SAPO Puny](http://sl.pt/) &#8211; fornece links curtos para todas as URL do projecto
+  * [inMotion](http://inmotion.pt/) — forneceu os motores e os L298
+  * [João Neves](http://mestrejoao.silvaneves.org/) — doou um servidor Dell PowerEdge R200
+  * Luis Silva — emprestou um módulo WiFi de dimensões reduzidas
+  * [Bruno Amaral](http://BrunoAmaral.eu/) — ajudou a criar o Mission Control web interface
+  * [Lobsters](http://oneoverzero.org/) — ajudaram com todo o encorajamento que bem falta nos fez :p
+  * [MEOCloud](http://meocloud.pt) — alojar imagens e documentos das missões
+  * [SAPO Puny](http://sl.pt/) — fornece links curtos para todas as URL do projecto
 
 &nbsp;
 
