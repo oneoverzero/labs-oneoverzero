@@ -115,7 +115,7 @@ googleAnalytics = "UA-53355360-1"
 [[menu.main]]
     parent = "Séries"
     name = "Série 1"
-    url = "/series/"
+    url = "/series/serie-1"
     weight = 50
 
 [[menu.main]]
