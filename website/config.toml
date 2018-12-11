@@ -1,4 +1,5 @@
 baseURL = "http://labs.oneoverzero.org/"
 languageCode = "pt-pt"
+theme = "beautifulhugo"
 title = "One Over Zero Labs"
 description = 'OOZ Labs - Construimos, arranjamos, melhoramos, estragamos, combinamos, inventamos, alteramos... e mostramos como se faz.'
