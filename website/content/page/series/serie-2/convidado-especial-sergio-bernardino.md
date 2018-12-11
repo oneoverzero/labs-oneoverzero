@@ -1,6 +1,6 @@
 ---
 id: 849
-title: 'Convidado Especial &#8211; Sérgio Bernardino'
+title: 'Convidado Especial — Sérgio Bernardino'
 date: 2016-04-07T11:41:44+00:00
 author: Nuno Nunes
 layout: page

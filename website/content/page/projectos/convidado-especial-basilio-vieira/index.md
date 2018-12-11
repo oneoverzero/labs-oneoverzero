@@ -1,6 +1,6 @@
 ---
 id: 953
-title: 'Convidado Especial &#8211; Basílio Vieira'
+title: 'Convidado Especial — Basílio Vieira'
 date: 2015-11-06T14:35:05+00:00
 author: OOZ Labs
 layout: page
@@ -25,11 +25,11 @@ Programou em PASCAL, COBOL, VB6, .Net e sobreviveu ao Y2K. Está a juntar dinhei
 
 Breve sumário da vida:
 
-  * Criador e locutor no [SBROING](http://www.sbroing.com/) &#8211; Podcasts e Audiolivros
-  * Ganhou o 1º Lugar no SAPO Codebits 2014 com o projeto “NeLo &#8211; A Knee Lock&#8221;
-  * Ganhou o 11º Lugar no SAPO Codebits 2012 com o projeto “ePutty &#8211; Plasticina Digital&#8221;
+  * Criador e locutor no [SBROING](http://www.sbroing.com/) — Podcasts e Audiolivros
+  * Ganhou o 1º Lugar no SAPO Codebits 2014 com o projeto “NeLo — A Knee Lock&#8221;
+  * Ganhou o 11º Lugar no SAPO Codebits 2012 com o projeto “ePutty — Plasticina Digital&#8221;
   * Foi o mentor do Projecto [SAPO Panoramas](http://panoramas.fotos.sapo.pt/).
   * Ganhou o 7º Lugar no SAPO Codebits 2010 com o projeto “TerraSentes” sobre sismologia.
-  * Criador do movimento &#8220;[Entrada Norte](http://st-apolonia.org/site/) &#8211; Uma proposta para melhorar a acessibilidade em Lisboa / Santa Apolónia”.
+  * Criador do movimento &#8220;[Entrada Norte](http://st-apolonia.org/site/) — Uma proposta para melhorar a acessibilidade em Lisboa / Santa Apolónia”.
 
 [ PROGRAMMER: Someone who&#8217;d rather spend 3 hours to build a “thing&#8221; to do a job in 1 minute instead of doing it manually in 30 minutes and still thinks he saved some time. ]

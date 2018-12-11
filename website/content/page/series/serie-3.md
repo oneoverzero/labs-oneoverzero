@@ -1,6 +1,6 @@
 ---
 id: 1238
-title: 'Mini-Série &#8211; Moldagem'
+title: 'Mini-Série — Moldagem'
 date: 2017-07-17T10:42:38+00:00
 author: Nuno Nunes
 layout: page
@@ -37,6 +37,6 @@ Finalmente queremos agradecer à [HB Química](http://hbquimica.pt/) por ter fei
 
 Esta série é composta pelos seguintes episódios:
 
-  * [Episódio 1 &#8211; Silicone](http://labs.oneoverzero.org/s03e01/)
-  * [Episódio 2 &#8211; Anões de Gelo](http://labs.oneoverzero.org/s03e02/)
-  * [Episódio 3 &#8211; Clona o teu Dedo](http://labs.oneoverzero.org/s03e03/)
+  * [Episódio 1 — Silicone](http://labs.oneoverzero.org/s03e01/)
+  * [Episódio 2 — Anões de Gelo](http://labs.oneoverzero.org/s03e02/)
+  * [Episódio 3 — Clona o teu Dedo](http://labs.oneoverzero.org/s03e03/)
