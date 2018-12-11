@@ -1,6 +1,6 @@
 baseURL = "http://labs.oneoverzero.org/"
 languageCode = "pt-pt"
-theme = "beautifulhugo"
+
 
 description = 'OOZ Labs - Construimos, arranjamos, melhoramos, estragamos, combinamos, inventamos, alteramos... e mostramos como se faz.'
 
@@ -20,8 +20,8 @@ googleAnalytics = "UA-53355360-1"
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle = "Build a beautiful and simple website in minutes"
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  subtitle = "Construimos, arranjamos, melhoramos, estragamos, combinamos, inventamos, alteramos... e mostramos como se faz."
+  logo = "/static/oozlabs_squarelogo_dark.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
