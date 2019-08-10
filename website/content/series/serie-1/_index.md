@@ -7,7 +7,9 @@ layout: page
 
 
 <p>Bem vindos à primeira série do OOZ Labs, como construir um Quadcopter.</p>
-<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/videoseries?list=PLfnCHIWbtqkH1Lg02U9u-PNEQGSEdlzHx" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;">
+<iframe src="https://www.youtube.com/embed/videoseries?list=PLfnCHIWbtqkH1Lg02U9u-PNEQGSEdlzHx" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+</p>
 <p>Esta série decorreu de 10 de Janeiro a 12 de Março de 2015. Nesse período lançámos vários episódios, bem como vídeos adicionais onde descrevemos o processo de montagem do nosso quadcopter. Podem ver os 22 vídeos da série na playlist acima e podem consultar cada um dos artigos referentes a todos esses vídeos nos links abaixo.</p>
 <p>Lista de episódios:</p>
 <ul>

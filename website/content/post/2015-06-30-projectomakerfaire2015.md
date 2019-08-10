@@ -17,6 +17,8 @@ categories:
   - Informações
   - Projectos
 ---
+
+{{< youtube QPzqmFlk3zU >}}
 Estamos a submeter uma candidatura à Maker Faire de Lisboa de 2015.
 
 Preparámos um pequeno vídeo introdutório que demonstra o projecto.
