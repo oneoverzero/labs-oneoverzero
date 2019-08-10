@@ -17,6 +17,7 @@ categories:
   - Projectos
   - Tutorials
 ---
+{{< youtube cmBac6a1gzE >}}
 Tal como tinha sido prometido durante a Lisbon Maker Faire, vamos descrever o nosso Rover (hardware).
 
 Brevemente será publicado o artigo sobre o software que faz o Rover andar.

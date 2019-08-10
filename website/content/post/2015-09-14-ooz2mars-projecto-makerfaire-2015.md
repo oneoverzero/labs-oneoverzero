@@ -16,9 +16,7 @@ image: /wp-content/uploads/2015/09/Rover1.jpg
 categories:
   - Informações
 ---
-## (Este artigo vai sofrer inúmeras alterações durante os próximos dias, à medida em que vamos adicionando mais conteúdo pós MakerFaire Lisboa)
-
-&nbsp;
+{{< youtube QPzqmFlk3zU >}}
 
 Foi há dois meses atrás que tivemos a ideia de propor como projecto para a [Lisbon Maker Faire](http://makerfairelisbon.com/) deste ano uma experiência condução de um Rover em Marte.
 
