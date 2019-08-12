@@ -19,3 +19,6 @@ Para poderes encomendar a tua, basta que sigas este <a title="T-shirt OOZ Labs" 
 [<img class="aligncenter size-full wp-image-458" src="/wp-content/uploads/2015/01/502-1059-thickbox.jpg" alt="502-1059-thickbox" width="600" height="600" srcset="/wp-content/uploads/2015/01/502-1059-thickbox.jpg 600w, /wp-content/uploads/2015/01/502-1059-thickbox-150x150.jpg 150w, /wp-content/uploads/2015/01/502-1059-thickbox-300x300.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />](/wp-content/uploads/2015/01/502-1059-thickbox.jpg)
 
 Podes encontrar a <a title="Teelook" href="http://teelook.pt" target="_blank">Teelook</a> na página [oficial no Facebook](http://www.facebook.com/teelook) .
+
+NB: infelizmente desde que comecámos este projecto, a Teelook deixou de existir.
+
