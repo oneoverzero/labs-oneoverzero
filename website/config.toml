@@ -1,4 +1,4 @@
-baseURL = "http://l.oneoverzero.org/"
+baseURL = "https://labs.oneoverzero.org/"
 languageCode = "pt-pt"
 
 description = 'OOZ Labs - Construimos, arranjamos, melhoramos, estragamos, combinamos, inventamos, alteramos... e mostramos como se faz.'
