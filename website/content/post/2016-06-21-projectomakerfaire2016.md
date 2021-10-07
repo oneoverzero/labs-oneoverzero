@@ -22,7 +22,7 @@ O uso desta tecnologia era possivel sem a utilização de ninhos, porém os ninh
 
 A análise dos dados recolhidos é efectuada em tempo quase-real por um sistema informático ainda em desenvolvimento que tratará de processar os dados de forma a poder enviar avisos de potenciais situações de perigo às entidades responsáveis.
 
-Durante a feira teremos um dashboard que mostra valores dos diversos ninhos espalhados pelo recinto da [Maker Faire Lisboa 2016](http://makerfairelisbon.com/pt/about.html). Já temos software disponível no nosso repositório no [Github](https://github.com/OOZLabs/SparroWatch), e continuamos a desenvolver a solução.
+Durante a feira teremos um dashboard que mostra valores dos diversos ninhos espalhados pelo recinto da [Maker Faire Lisboa 2016](http://makerfairelisbon.com/pt/about.html). Já temos software disponível no nosso repositório no [Github](https://github.com/oneoverzero/SparroWatch), e continuamos a desenvolver a solução.
 
 Podem obter aqui o [Press Release do projecto](http://cdn.labs.oneoverzero.org/MakerFaire2016/Press%20Release%20-%20OOZ%20Labs%20-%20Maker%20Faire%20Lisboa.pdf), amavelmente preparado pela [Daniela Azevedo](mailto:danielapress@gmail.com).
 

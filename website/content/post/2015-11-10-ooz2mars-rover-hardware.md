@@ -62,7 +62,7 @@ Em antecipação da explicação mais detalhada do software, juntamos aqui os li
 
 Código fonte do projecto
 
-  * <a href="https://github.com/OOZLabs/MakerFaire2015" target="_blank">Maker Faire 2015</a> — Software de controlo
+  * <a href="https://github.com/oneoverzero/MakerFaire2015" target="_blank">Maker Faire 2015</a> — Software de controlo
   * <a href="https://github.com/luisfcorreia/MFL2015_MISCTL" target="_blank">MFL2015</a> — Interface Mission Control
 
 &nbsp;
