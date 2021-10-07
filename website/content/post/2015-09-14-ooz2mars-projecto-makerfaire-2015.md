@@ -52,7 +52,7 @@ No fim de cada missão executada, o/a Comandante da Missão vai receber um certi
 
 Para este projecto tivemos a ajuda preciosa do [Basílio Vieira](http://www.Basilio.eu/) que desenhou e imprimiu todas as peças à medida que necessitámos criar. As rodas, os suportes dos motores, os &#8220;linkage&#8221; que permitem a suspensão funcionar e ainda o suporte da câmera (que não consta da foto).
 
-O [Nuno Correia](/equipa/nuno-correia/) construiu todo o chassis e painéis laterais, ajudando nas decisões do projecto, fornecendo o espaço oneoverzero para a construção e mantendo o stock do minibar em níveis aceitáveis.
+O [Nuno Correia](/equipa/nuno-correia/) construiu todo o chassis e painéis laterais, ajudando nas decisões do projecto, fornecendo o espaço OOZLabs para a construção e mantendo o stock do minibar em níveis aceitáveis.
 
 O [Luís Correia](/equipa/luis-correia/) seleccionou o hardware e os módulos da electrónica, escreveu todo o código que corre nos dois Arduino (C++), o código que corre no Raspberry Pi 2 (Python) e trata comunicação de dados com Mission Control e ainda o código que corre em Mission Control (Javascript + Websockets).
 
