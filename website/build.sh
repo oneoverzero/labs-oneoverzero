@@ -1,6 +1,6 @@
 #! /bin/bash
 
-WEBSITE_DIR="/home/sco/labs.oneoverzero.org"
-HUGO="/home/sco/hugo_0.56.3_linux/hugo"
+WEBSITE_DIR="/pub/provisioning/machinecmd/_data/nginx/sites/labs_oneoverzero_org"
+HUGO="../hugo"
 
 $HUGO -d "$WEBSITE_DIR";
