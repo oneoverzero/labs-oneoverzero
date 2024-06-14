@@ -43,9 +43,13 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-	  - name: checkoutLFS
-          uses: actions/checkout@v4
-        run: git lfs pull          
+          lfs: 'true'
+      - name: Checkout LFS
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - run: git lfs pull
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
