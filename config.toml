@@ -1,4 +1,5 @@
-baseURL = "https://labs.oneoverzero.org/"
+#baseURL = "https://labs.oneoverzero.org/"
+baseURL = "https://oneoverzero.github.io/labs-oneoverzero/"
 languageCode = "pt-pt"
 
 description = 'OOZ Labs - Construimos, arranjamos, melhoramos, estragamos, combinamos, inventamos, alteramos... e mostramos como se faz.'
