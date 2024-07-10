@@ -14,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
-googleAnalytics = "UA-53355360-1"
+#googleAnalytics = "UA-53355360-1"
 
 [permalinks]
   post = "/:slug/"
