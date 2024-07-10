@@ -1,5 +1,5 @@
-#baseURL = "https://labs.oneoverzero.org/"
-baseURL = "https://labs.luiscorreia.pt/"
+baseURL = "https://labs.oneoverzero.org/"
+#baseURL = "https://labs.luiscorreia.pt/"
 languageCode = "pt-pt"
 
 description = 'OOZ Labs - Construimos, arranjamos, melhoramos, estragamos, combinamos, inventamos, alteramos... e mostramos como se faz.'
