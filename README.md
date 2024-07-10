@@ -13,4 +13,3 @@ Deploy is now prepared to be hosted with Github Pages, following instructions fr
 https://gohugo.io/hosting-and-deployment/hosting-on-github/
 
 (I was forced to specify the final https:// URL in both build and deploy in order for everything to work properly)
-
