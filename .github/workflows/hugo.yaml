@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://labs.luiscorreia.pt/"          
+            --baseURL "https://labs.oneoverzero.org/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -69,7 +69,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://labs.luiscorreia.pt/
+      url: https://labs.oneoverzero.org/
     runs-on: ubuntu-latest
     needs: build
     steps:
